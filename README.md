@@ -1,9 +1,11 @@
 # iOSDeviceSupport
+
 各个版本的iOS Device Support
 
 存放路径：/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport
 
 命令行直接打开：
+
 open /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport
 
 ## 便捷单包下载地址：
